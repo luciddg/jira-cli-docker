@@ -1,0 +1,4 @@
+# Sample configuration for the jira-cli-docker wrapper
+server="https://jira.example.com/"
+user="johndoe"
+password="sEkUr1t33!"
